@@ -1,6 +1,6 @@
 # MavenJsonBindingUsingGson
 
-* Maven + Json + Gson + Binding
+* Maven + Json-Binding + Gson
 * Helpful in Data binding when using Rest end points
 * By using com.google.gson.Gson;
 ```java
