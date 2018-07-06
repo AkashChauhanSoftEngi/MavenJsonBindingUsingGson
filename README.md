@@ -4,7 +4,7 @@
 * Helpful in Data binding when using Rest end points
 * By using com.google.gson.Gson;
 ```java
-	Gson.toJson(POJO) and Gson.fromJson(json, POJO.class);
+Gson.toJson(POJO) and Gson.fromJson(json, POJO.class);
 ```
 > **###1. Technologies**
 * Maven 3.1
